@@ -53,7 +53,7 @@ This is called **neighbor aggregation**.
 
 ---
 
-## 5. Neighbor Aggregation Example (in markdown)
+## 5. Neighbor Aggregation Example 
 User embeddings get information from connected items:
 - Embedding(U1) ← {Embedding(I1), Embedding(I3)}
 - Embedding(U2) ← {Embedding(I1)}
